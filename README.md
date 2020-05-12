@@ -3,7 +3,7 @@
 SCC0251 - Processamento de Imagens (2020 / 1 Semester)
 
 Author:
-* Enrique Gabriel da Silva Teles 10724326
+* Enrique Gabriel da Silva Teles, 10724326
 
 Folders and files:
 * [Python code](./submission/main.py) submitted into run.code
